@@ -1,5 +1,7 @@
-# TASK 1: Create a web application to introduce and pre-order the new "TechTrek X" smartphone. Your application should include the following
-Customer: E-commerce company "TechTrek-X"
+# TASK 1: 
+Create a web application to introduce and pre-order the new "TechTrek X" smartphone. Your application should include the following
+# Customer: 
+E-commerce company "TechTrek-X"
 **Additional requirements:**
 Displays the main characteristics and features of the "TechTrek X" smartphone. 
 
@@ -11,7 +13,8 @@ Displays the main characteristics and features of the "TechTrek X" smartphone.
 
 ![basket](https://github.com/atabaev1/FinalState/assets/105366009/5dafd80a-08b5-4d45-bce6-1b54e67902d6)
 
-
+# Video:
+https://drive.google.com/file/d/1tOPwJ0BFDyqhx2XSdbU5GzrWQVoZ2tSh/view?usp=drive_link
 
 
 
